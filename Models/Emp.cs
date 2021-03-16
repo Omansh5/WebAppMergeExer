@@ -10,7 +10,7 @@ namespace WebAppMergeExercise.Models
         public int EId { get; set; }
         public string EName { get; set; }
         public string EDesign { get; set; }
-        public DateTime EDOB { get; set; }
+        public string EDOB { get; set; }
 
     }
 }
